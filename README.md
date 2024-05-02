@@ -1,6 +1,6 @@
-# Exercício Módulo 8:
+# Exercício Aula Módulo 8:
 
-Exercício módulo 8 do curso de Engenharia Front-end EBAC
+Exercício Aula módulo 8 do curso de Engenharia Front-end EBAC
   
 - O usuário estipula qual será a média considerada para a provação
   
